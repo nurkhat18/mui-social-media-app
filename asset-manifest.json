@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/mui-social-media-app/%20/static/js/main.48a93859.js",
-    "index.html": "/mui-social-media-app/%20/index.html",
-    "main.48a93859.js.map": "/mui-social-media-app/%20/static/js/main.48a93859.js.map"
+    "main.js": "./static/js/main.48a93859.js",
+    "index.html": "./index.html",
+    "main.48a93859.js.map": "./static/js/main.48a93859.js.map"
   },
   "entrypoints": [
     "static/js/main.48a93859.js"
